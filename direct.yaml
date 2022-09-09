@@ -1,0 +1,39 @@
+payload:
+  # Hotstar
+  - IP-CIDR,192.168.1.1/24
+  # > myXL App
+  # Client Patch
+  - DOMAIN-KEYWORD,xlaxiata
+  - DOMAIN-KEYWORD,xlaxiata2
+  - DOMAIN-KEYWORD,xlaxiata-resources
+  - DOMAIN-SUFFIX,imdap-sea.alipay.com
+ # Dana-Gojek-Indodax
+  - DOMAIN-KEYWORD,dana.id
+  - DOMAIN-KEYWORD,gojek
+  - DOMAIN-KEYWORD,indodax
+  - DOMAIN-SUFFIX,a.m.dana.id
+  - DOMAIN-SUFFIX,mgs-gw.m.dana.id
+  - DOMAIN-SUFFIX,api.gojekapi.com
+  - DOMAIN-SUFFIX,i.gojekapi.com
+  - DOMAIN-SUFFIX,ws3.indodax.com
+  - DOMAIN-SUFFIX,indodax.com
+  - DOMAIN-SUFFIX,btcapi.net
+  - DOMAIN-SUFFIX,bitcoin.co.id
+  - DOMAIN-SUFFIX,pusvo.com
+  - DOMAIN-SUFFIX,api540cb4bc94a51e48766cc69d8a646bf.pusvo.com
+ # Whatsapp
+  - DOMAIN-SUFFIX,m.me
+  - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,oculuscdn.com
+  - DOMAIN-SUFFIX,rocksdb.org
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  # Stake-Primedice
+  - DOMAIN-SUFFIX,staketr.com
+  - DOMAIN-SUFFIX,api.staketr.com
+  - DOMAIN-SUFFIX,stake.games
+  - DOMAIN-SUFFIX,api.stake.games
+  - DOMAIN-SUFFIX,primedice.com
+  - DOMAIN-SUFFIX,api.primedice.com
+  - DOMAIN-SUFFIX,primedice.games
+  - DOMAIN-SUFFIX,api.primedice.games
